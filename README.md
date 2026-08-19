@@ -25,13 +25,13 @@ in the portfolio [roadmap](https://github.com/teo-garcia/templates/blob/main/ROA
 
 ## Intended Scope
 
-| Capability | Contract |
-| --- | --- |
-| Workload | Deployment using the existing container and shutdown contracts |
-| Health | `/health/live` and `/health/ready` probes |
-| Networking | Service and configurable Ingress with TLS termination |
-| Configuration | ConfigMap and secret-provider wiring |
-| Reliability | Resource requirements, autoscaling, and disruption budget |
+| Capability    | Contract                                                       |
+| ------------- | -------------------------------------------------------------- |
+| Workload      | Deployment using the existing container and shutdown contracts |
+| Health        | `/health/live` and `/health/ready` probes                      |
+| Networking    | Service and configurable Ingress with TLS termination          |
+| Configuration | ConfigMap and secret-provider wiring                           |
+| Reliability   | Resource requirements, autoscaling, and disruption budget      |
 
 ---
 
